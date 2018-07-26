@@ -1,0 +1,41 @@
+## Alguns comandos do GIT
+os primeiros quando instala-lo é
+
+# Para configurar o nome de quem editou os arquivos. pra saber que foi você sabe.
+	git config --global user.name "Saulosantos17"
+	git config --global user.email "saulosantos2002@gmail.com"
+
+# Para iniciar o git no repositório sem o GitHub
+	git init
+
+# Mostra o que foi alterado no arquivo local para com o servidor
+# O que tem de diferente no arquivo local do arquivo em nuvem
+	git status
+
+# Para adicionar as mudanças em todos os arquivos
+	git add .
+
+# Para adicionar as mudanças em um arquivoespecifico.txt
+	git add arquivoespecifico.txt
+
+# Para commitar as mudanças feita
+	git commit -m "Nova Versão x.x.x"
+
+# Para mandar as alterações para o servidor (GitHub)
+	git push
+
+Basicamente são esses, os outros são mt avançados.  e so tem uma semana que eu to usando o git
+ainda não sei todos os macetes ainda.
+Mas vamos testar esses ai de cima
+
+
+ta dizendo que as alterações não foram commitadas... E o quais arquivos foram alterados
+Agora mostra quais arquivos foram adicionados porém falta commitar
+Agora mostra que ja comentei as alterações, no entanto falta upar pro servidor..
+Até esse momento no servidor nada mudou...
+mas quando você digita git push tudo muda,.. Ou seja seus arquivos editados localmente serão 
+editados online... tbm
+Essa confirmação so pede  uma vez...
+AGORA VAMOS VER SE AS ALTERAÇÕES FORAM PRO SERVIDOR
+
+

@@ -1,0 +1,30 @@
+# Lista de comandos para usar no CMD
+
+# LISTA DE COMANDOS PRA USAR NO CMD
+
+
+# PARA MOSTRAR TODOS ARQUIVOS / DIRETORIOS NA PASTA ATUAL
+	dir
+
+# PARA ABRIR UMA PASTA DO DIRETORIO ATUAL
+	cd "Nome da pasta entre aspas duplas"
+
+# PARA VOLTAR UMA PASTA ATRAS
+	cd ..
+
+# PARA ABRIR UM ARQUIVO DENTRO DA PASTA ATUAL
+	programa "Nome do arquivo que deseja executar.extensão"
+
+# PARA AUTOCOMPLETAR O NOME DOS DIRETORIOS / ARQUIVO BASTA APERTAR TAB
+	tab
+
+# PARA CRIA UMA PASTA
+	mkdir "Nome da pasta"
+
+# PARA DELETAR UMA PASTA
+	rmdir "Nome da pasta"
+
+# PARA LIMPAR QUANDO TIVER POLUIDO
+	cls
+
+TAB VAI PASSANDO DE OPÇÃO EM OPÇÃO.
