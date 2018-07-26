@@ -1,6 +1,7 @@
 from random import randint
 # rafael # # # 
 # Saulo  # # # #
+# Adicionando mais uma linha
 
 def sorteia_10_numeros():
     """Sorteia 10 números e coloca-os na lista."""
